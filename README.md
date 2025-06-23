@@ -1,13 +1,39 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my GitHub 👋
 
-<div id="header" align="center">
-  <img src="https://photos.app.goo.gl/L6JxCR1Z9GSz1Ysd9" width="100"/>
-</div>
+## 🙋‍♀️ About Me
+
+Hi there! My name is **Anongnat**. I’m a passionate software developer who loves building useful and meaningful applications.
+
+---
+
+### 🚀 What I’m Passionate About:
+- 💻 Web development and clean, user-friendly design  
+- 🛠️ Solving real-world problems with innovative technologies  
+- 🔄 Continuous learning and self-improvement  
+
+---
+
+### 🎯 My Goals:
+- 📚 Keep improving my coding skills  
+- ⚙️ Learn and apply modern frameworks and best practices  
+- 🤝 Collaborate and grow with the developer community  
+
+---
+
+### 🛠️ Tech Stack:
+- **Frontend:** React, JavaScript, HTML, CSS, Ant Design, Material UI  
+- **Backend:** Node.js, Express, MySQL  
+- **Tools:** Git, VS Code, Postman  
+
+---
+
+Thank you for visiting! 😊
+
 
 <img src="https://komarev.com/ghpvc/?username=anongnt&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <img src="https://i.postimg.cc/Jh74rJSK/Web-Design-Development-Digital-Marketing-software-Digital-it-solution-Company-India.gif" width="600" height="300"/>
 </div>
 
 ----
